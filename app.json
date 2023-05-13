@@ -5,7 +5,18 @@
       "bundler": "metro",
       "output": "static"
     },
-    "name": "expo-router-layouts",
-    "slug": "expo-router-layouts"
+    "name": "lets-code",
+    "slug": "lets-code",
+    "extra": {
+      "eas": {
+        "projectId": "30af93ea-5553-4a25-95d7-f81ce7706e31"
+      }
+    },
+    "android": {
+      "package": "com.biswabijaya.letscode"
+    },
+    "ios": {
+      "bundleIdentifier": "com.biswabijaya.letscode"
+    }
   }
 }
